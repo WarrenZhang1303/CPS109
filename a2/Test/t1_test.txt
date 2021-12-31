@@ -1,0 +1,87 @@
+answer Lady Catelyn Stark
+question Who is Arya Stark's wife?
+answer House Lannister
+question Who escaped the persecution of House Stark?
+answer Faceless Man
+question What is Arya trained as at the House of Black and White in Braavos?
+answer House Stark
+question Who was the faceless man in Braavos?
+answer Frey
+question What male line does Arya exterminate after returning to Westeros?
+answer Jon Snow, King
+question Who is the half-brother of Arya's half-brother?
+answer Winterfell
+question Where did Arya return to?
+answer Petyr Baelish
+question Who manipulated Arya's half-brother?
+answer House Stark
+question Petyr Baelish was executed for his crimes against whom?
+answer the Battle of Winterfell
+question When did Arya kill the Night King?
+answer Sandor Clegane
+question Who killed Cersei Lannister?
+answer Daenerys Targaryen
+question Who destroys King's Landing?
+answer Sandor
+question Who convinces Arya to abandon her quest for vengeance?
+answer Arya's younger brother Bran
+question Who is chosen as king in Westeros?
+answer Arya decides to leave Westeros and sail west to discover what lies beyond where the maps of the known world end.
+question What does Arya decide to leave Westeros after bidding farewell to her siblings?
+answer Arya Stark
+question Who is the youngest daughter of Lady Catelyn and Lord Ned Stark?
+answer Lady Catelyn and Lord Ned Stark
+question Who are Arya Stark's daughters?
+answer Winterfell
+question Where was Arya born and raised?
+answer Jon Snow
+question Who is Arya's bastard half-brother?
+answer Sansa
+question Who is Arya's older sister?
+answer Arya
+question Who rejects the notion that she must become a lady and marry for influence and power?
+answer forge her own destiny
+question What does Arya believe she can do?
+answer embroidery
+question What is Arya bored by?
+answer her father
+question Who does Arya take after?
+answer Jon
+question Who is Arya close to?
+answer Septa Mordane
+question Who taught Arya how to sew?
+answer archery
+question What does Bran, Jon, and Robb practice in the courtyard with their father?
+answer out-shooting him
+question How does Arya annoy Bran?
+answer laughs at their antics
+question What does Bran chase Arya as their family chases?
+answer Winterfell
+question Where does King Robert visit?
+answer scolded
+question What happens to Arya when she joins the receiving line in the courtyard?
+answer Queen Cersei
+question Who overheards Arya when she asks Sansa where the Imp is?
+answer her mother's patience
+question What does Arya test at the feast?
+answer Hand of the King
+question What does Robert name Arya's father?
+answer Nymeria
+question What is Arya's name after a great warrior-queen of Essos?
+answer a sword
+question What does Arya receive as a gift from Jon?
+answer Needle
+question What does Arya name as a play on words that she may now enjoy doing needlework?
+answer Mycah
+question Who is the son of the butcher in the King's retinue?
+answer Sansa and Joffrey
+question Who spot Nymeria fighting?
+answer Mycah
+question Who does Nymeria cut when he threatens Arya?
+answer Joffrey
+question Who threatens Arya with a sword?
+answer rocks
+question What does Arya drive Nymeria off with so she won't be punished?
+answer Crossroads Inn
+question Where is Arya's father located?
+answer Joffrey

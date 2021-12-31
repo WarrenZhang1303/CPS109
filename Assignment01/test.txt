@@ -1,0 +1,40 @@
+This is a simple note program for recording daily schedules. It has five main functions:
+1. read all notes: it will print out all your daily schedules on the screen.
+2.add a new item: This function allows users to add a new item at the end of the note
+3.rewrite the specified note: This function allows users to rewrite a specified item in the file.
+4.Delete the specified item: This function allows users to delete a specified item in the file.
+5. Create a new .txt file at specified path.
+*When the user creates a new note file, the date will be automatically added to the first line of the file.
+Because I think date can make this note program look more professional.XD
+
+notes_create() function will only be called when the user creates a new file.
+It will create a writable file and print the date of creation on the first line of the file
+
+notes_read() function open the specified file in read-only mode,
+and traverse each line of the file through the headlines() function
+In order for the user to see how many lines of content there are,
+there will be the current number of lines before each line of content.
+
+notes_write(): Open the file in a mode that can read ，write and it won't overwrite the original content. (a+)
+To ensure that each input of information is exclusive a line,
+it need to add a "\n" symbol at the end of the user input.
+
+notes_rewrite(): First, open the file in a only read mode.
+Then,through readlines() method to store the contents of each lines.
+After that, remove the elements of the specified location based on the numbers entered by the user.
+Then, use .insert() method insert the new information in the same location.
+Finally, open the file in a only write mode. (w)
+Override the original content by traversing the new arranged elements in the list.
+
+"""
+notes_delete(): It's basically the same as the note_rewrite(),
+except for the insertion information part.
+"""
+
+"""
+The default path is： /Users/peirongzhang/Desktop/
+The user can choose to change the path, and if it is illegal,
+I/O will warning the user and returns to the menu.
+user must input a file name.
+
+"""
